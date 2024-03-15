@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 Arquivo blabla
 EU TENTEEEIIII
-NÃO SER MLK COM VC NÃO SER MLK COM VC NÃO SER MLK COM VC 
+NÃO SER MLK COM VC NÃO SER MLK COM VC 
 =======
+Arquivo blabla
 >>>>>>> parent of 112b684 (APRIMORAMENTO DO TEXTO)
